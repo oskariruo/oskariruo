@@ -1,10 +1,8 @@
-### Hi there friend!👋
+![cat-keyboard](https://user-images.githubusercontent.com/78789083/212533303-b3a5a09c-e207-4355-a106-d9499b0149ec.gif)
 
-- 🔭 I’m currently working on my studies at Haaga-Helia
-- 🌱 I’m currently learning React and Java
-- 👯 I’m looking to collaborate on any interesting entry-level project
-- 💬 Ask me about anything
-- 📫 How to reach me: oskari.ruotsalainen@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Lemons float, but limes sink
+Email: oskari.ruotsalainen@gmail.com
+
+Twitter: https://twitter.com/timoonnioskari
+
+
 
