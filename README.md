@@ -8,6 +8,8 @@
 - My 2023 goal: find my first programming job/internship
 - What I like: cats 🐈 and coffee ☕
 
+[➡️Portfolio](https://oskariruo.github.io./)
+
 Contact me: oskari.ruotsalainen@gmail.com
 
 or
