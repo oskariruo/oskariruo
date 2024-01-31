@@ -2,10 +2,10 @@
 
 <h3>Moi, Hi, Salut, I'm Oskari Ruotsalainen</h3>
 
-- What I do: software engineering student 💻
+- What I do: software engineering student @ Haaga-Helia💻
 - What I'm interested in: fullstack software development, mobile development
 - What I'm currently learning: TypeScript, Python
-- My 2023 goal: find my first programming job/internship
+- My 2024 goal: find my first programming job/internship
 - What I like: cats 🐈 and coffee ☕
 
 [➡️Portfolio](https://oskariruo.github.io./)
