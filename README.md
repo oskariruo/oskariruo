@@ -24,9 +24,7 @@ Contact me: oskari.ruotsalainen@gmail.com
 
 or
 
-Check me out on [Twitter](https://twitter.com/timoonnioskari)
-
-or on [LinkedIn](https://www.linkedin.com/in/oskari-ruotsalainen-721083253/)
+DM on [Twitter](https://twitter.com/timoonnioskari) or on [LinkedIn](https://www.linkedin.com/in/oskari-ruotsalainen-721083253/)
 
 Languages you can contact me in: 
 - Finnish (Native)
