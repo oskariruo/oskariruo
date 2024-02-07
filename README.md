@@ -8,6 +8,16 @@
 - My 2024 goal: find my first programming job/internship
 - What I like: cats 🐈 and coffee ☕
 
+Some of my technical skills:
+ -Javascript & Typescript
+ -Python
+ -React & React Native
+ -NodeJS & Django
+ -Database management SQL/NoSQL (MySQL / MS SQL/MongoDB/Firebase)
+ -Git & Github
+ -Testing: Robot ja JUnit
+ -Linux
+
 [➡️Portfolio](https://oskariruo.github.io./)
 
 Contact me: oskari.ruotsalainen@gmail.com
